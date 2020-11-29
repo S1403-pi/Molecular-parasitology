@@ -1,0 +1,8 @@
+	L.donovani_4vsControl	L.donovani_8vsControl	L.donovani_24vsControl	L.major_4vsControl	L.major_8vsControl	L.major_24vsControl
+control	-1	-1	-1	-1	-1	-1
+L.donovani_24	0	0	1	0	0	0
+L.donovani_4	1	0	0	0	0	0
+L.donovani_8	0	1	0	0	0	0
+L.major_24	0	0	0	0	0	1
+L.major_4	0	0	0	1	0	0
+L.major_8	0	0	0	0	1	0
