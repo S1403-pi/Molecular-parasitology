@@ -1,0 +1,19 @@
+	title	geo_accession	source_name	organism	strain	group
+GSM1499639	Infected U937 derived macrophages by Leishmania braziliensis, biological replicate 1, technical replicate 1	GSM1499639	U937 derived macrophages infected by L. braziliensis for 72 h	Homo sapiens	MHOM/BR/00/M2903	L.braziliensis
+GSM1499640	Infected U937 derived macrophages by Leishmania braziliensis, biological replicate 1, technical replicate 2	GSM1499640	U937 derived macrophages infected by L. braziliensis for 72 h	Homo sapiens	MHOM/BR/00/M2903	L.braziliensis
+GSM1499641	Infected U937 derived macrophages by Leishmania braziliensis, biological replicate 1, technical replicate 3	GSM1499641	U937 derived macrophages infected by L. braziliensis for 72 h	Homo sapiens	MHOM/BR/00/M2903	L.braziliensis
+GSM1499642	Infected U937 derived macrophages by Leishmania braziliensis, biological replicate 2, technical replicate 1	GSM1499642	U937 derived macrophages infected by L. braziliensis for 72 h	Homo sapiens	MHOM/BR/00/M2903	L.braziliensis
+GSM1499643	Infected U937 derived macrophages by Leishmania braziliensis, biological replicate 2, technical replicate 2	GSM1499643	U937 derived macrophages infected by L. braziliensis for 72 h	Homo sapiens	MHOM/BR/00/M2903	L.braziliensis
+GSM1499644	Infected U937 derived macrophages by Leishmania braziliensis, biological replicate 2, technical replicate 3	GSM1499644	U937 derived macrophages infected by L. braziliensis for 72 h	Homo sapiens	MHOM/BR/00/M2903	L.braziliensis
+GSM1499645	Infected U937 derived macrophages by Leishmania braziliensis, biological replicate 3, technical replicate 1	GSM1499645	U937 derived macrophages infected by L. braziliensis for 72 h	Homo sapiens	MHOM/BR/00/M2903	L.braziliensis
+GSM1499646	Infected U937 derived macrophages by Leishmania braziliensis, biological replicate 3, technical replicate 2	GSM1499646	U937 derived macrophages infected by L. braziliensis for 72 h	Homo sapiens	MHOM/BR/00/M2903	L.braziliensis
+GSM1499647	Infected U937 derived macrophages by Leishmania braziliensis, biological replicate 3, technical replicate 3	GSM1499647	U937 derived macrophages infected by L. braziliensis for 72 h	Homo sapiens	MHOM/BR/00/M2903	L.braziliensis
+GSM1499648	Uninfected U937 derived macrophages, biological replicate 1, technical replicate 1	GSM1499648	U937 derived macrophages	Homo sapiens	NA	control
+GSM1499649	Uninfected U937 derived macrophages, biological replicate 1, technical replicate 2	GSM1499649	U937 derived macrophages	Homo sapiens	NA	control
+GSM1499650	Uninfected U937 derived macrophages, biological replicate 1, technical replicate 3	GSM1499650	U937 derived macrophages	Homo sapiens	NA	control
+GSM1499651	Uninfected U937 derived macrophages, biological replicate 2, technical replicate 1	GSM1499651	U937 derived macrophages	Homo sapiens	NA	control
+GSM1499652	Uninfected U937 derived macrophages, biological replicate 2, technical replicate 2	GSM1499652	U937 derived macrophages	Homo sapiens	NA	control
+GSM1499653	Uninfected U937 derived macrophages, biological replicate 2, technical replicate 3	GSM1499653	U937 derived macrophages	Homo sapiens	NA	control
+GSM1499654	Uninfected U937 derived macrophages, biological replicate 3, technical replicate 1	GSM1499654	U937 derived macrophages	Homo sapiens	NA	control
+GSM1499655	Uninfected U937 derived macrophages, biological replicate 3, technical replicate 2	GSM1499655	U937 derived macrophages	Homo sapiens	NA	control
+GSM1499656	Uninfected U937 derived macrophages, biological replicate 3, technical replicate 3	GSM1499656	U937 derived macrophages	Homo sapiens	NA	control
