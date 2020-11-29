@@ -1,2 +1,2 @@
-# Molecular-parasitology
+# Leishmania 
 Differential gene expression analysis
